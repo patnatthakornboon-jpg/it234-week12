@@ -1,6 +1,6 @@
 {
   "shopName": "ร้านกาแฟสดลองเลย",
-  "owner": "patnatthakorn boonted ",
+  "owner": "patnatthakorn boonted",
   "studentId": "1680701875",
   "ownerPhone": "096-709-5917",
   "products": [
@@ -27,7 +27,7 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
-    }
+    },
     {
       "id": 4,
       "name": "ชาเขียว",
@@ -35,6 +35,6 @@
       "emoji": "🍵",
       "available": true,
       "tags": ["ชา", "เย็น"]
-    },
+    }
   ]
 }
