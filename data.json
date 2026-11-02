@@ -1,8 +1,8 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
-  "ownerPhone": "081-234-5678",
+  "shopName": "ร้านกาแฟสดลองเลย",
+  "owner": "patnatthakorn boonted ",
+  "studentId": "1680701875",
+  "ownerPhone": "096-709-5917",
   "products": [
     {
       "id": 1,
@@ -28,5 +28,13 @@
       "available": false,
       "tags": ["เบเกอรี่"]
     }
+    {
+      "id": 4,
+      "name": "ชาเขียว",
+      "price": 60,
+      "emoji": "🍵",
+      "available": true,
+      "tags": ["ชา", "เย็น"]
+    },
   ]
 }
